@@ -1,5 +1,6 @@
 ## Hello World! 👋🌎
-### I'm Suhan Nath, a front end developer currently pursuing his Master's in Computer Science at the University of Illinois at Chicago.
+I'm Suhan Nath, a front end developer currently pursuing his Master's in Computer Science at the University of Illinois at Chicago.
+I am currently looking for front end developer/SDE oppurtunities. If you like my work and are interested, reach out to me at suhannath@gmail.com or message me on [LinkedIn](https://www.linkedin.com/in/suhannath/).
 
 ### Languages and Tools:
 
